@@ -1,0 +1,12 @@
+spcb_form.spcb_form_menu_link:
+  title: 'Custom form'
+  route_name: spcb_form.spcb_form
+  description: 'Access the custom form page'
+  parent: system.admin
+  weight: 1
+
+spcb_form.admin:
+  title: 'Custom form'
+  description: 'Access the custom form page'
+  parent: system.admin_config_system
+  route_name: spcb_form.spcb_form  

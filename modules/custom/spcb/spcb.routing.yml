@@ -1,0 +1,7 @@
+spcb_form.spcb_form:
+  path: '/admin/spcb-form'
+  defaults:
+    _form: '\Drupal\spcb\Form\SpcbForm'
+    _title: 'Custom Form'
+  requirements:
+    _permission: 'access custom form'

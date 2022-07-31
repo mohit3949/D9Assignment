@@ -1,0 +1,3 @@
+services:
+ spcb.test:
+   class: Drupal\spcb\MyServices
